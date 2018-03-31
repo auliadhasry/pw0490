@@ -1,0 +1,12 @@
+.datakuno{
+	border-collapse: collapse;
+	width: 100%;
+}
+.datakuno th{
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: green;
+	color: white;
+
+}
